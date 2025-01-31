@@ -12,4 +12,4 @@ To unluck customer behavior, optimize operation, and drive revenue growth, in th
 *o* **Country:** The country where the transaction took place.
 
 ## Task Instruction.
-my goalls is to uncover deatailed insights from this data.
+My goalls is to uncover deatailed insights from this data.
